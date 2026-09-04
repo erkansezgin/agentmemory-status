@@ -58,19 +58,19 @@
     "url": "https://agentmem-poc-cmcpe4h3d5hjdzf4.z03.azurefd.net/api/status",
     "icon": "https://icons.duckduckgo.com/ip3/agentmem-poc-cmcpe4h3d5hjdzf4.z03.azurefd.net.ico",
     "slug": "status-and-notices-json",
-    "status": "down",
+    "status": "up",
     "uptime": "0.03%",
     "uptimeDay": "0.03%",
     "uptimeWeek": "0.03%",
     "uptimeMonth": "0.03%",
     "uptimeYear": "0.03%",
-    "time": 258,
-    "timeDay": 258,
-    "timeWeek": 258,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "time": 285,
+    "timeDay": 285,
+    "timeWeek": 285,
+    "timeMonth": 285,
+    "timeYear": 285,
     "dailyMinutesDown": {
-      "2026-09-04": 168,
+      "2026-09-04": 701,
       "2026-09-03": 423
     }
   }
