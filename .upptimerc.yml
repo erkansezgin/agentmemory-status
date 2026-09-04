@@ -12,6 +12,8 @@ sites:
     url: https://agentmem-poc-cmcpe4h3d5hjdzf4.z03.azurefd.net/api/status
 
 status-website:
+  # Project-pages hosting: assets must resolve under /agentmemory-status
+  baseUrl: /agentmemory-status
   name: AgentMemory Status
   introTitle: "AgentMemory platform status"
   introMessage: Live component health, response times, and incident history.
