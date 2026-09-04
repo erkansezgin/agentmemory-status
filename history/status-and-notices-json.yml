@@ -1,7 +1,7 @@
 url: https://agentmem-poc-cmcpe4h3d5hjdzf4.z03.azurefd.net/api/status
-status: down
-code: 404
-responseTime: 198
-lastUpdated: 2026-09-04T00:42:55.712Z
+status: up
+code: 200
+responseTime: 340
+lastUpdated: 2026-09-04T11:40:55.324Z
 startTime: 2026-09-03T16:56:49.137Z
 generator: Upptime <https://github.com/upptime/upptime>
